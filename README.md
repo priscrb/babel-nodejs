@@ -2,18 +2,9 @@
 > A boilerplate for Node.js development using es6 features.
 
 
-<p align="center">
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/priscribeiro/babel-nodejs/issues)
-
-
-  [![HitCount](http://hits.dwyl.io/priscribeiro/priscribeiro/babel-nodejs.svg)](http://hits.dwyl.io/priscribeiro/priscribeiro/babel-nodejs)
-
-</p>
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.io/priscribeiro/priscribeiro/babel-nodejs.svg)](http://hits.dwyl.io/priscribeiro/priscribeiro/babel-nodejs)
 
 
 
@@ -33,6 +24,8 @@ Your Name – [@priscribeiro](https://twitter.com/priscribeiro) – prsc.ribeiro
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/priscribeiro/babel-nodejs/issues)
 
 1. Fork it (<https://github.com/priscribeiro/babel-nodejs>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
