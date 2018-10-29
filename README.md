@@ -1,8 +1,8 @@
 # Babel Nodejs Setup
 > A boilerplate for Node.js development using es6 features.
 
-[![Babel 7.1.0][babel-image]][https://babeljs.io]
-[![Node.js 10.9.0][node-image]][https://nodejs.org/en/]
+![NpmLicense](https://img.shields.io/npm/l/:package.svg)
+
 
 ## Installation
 
