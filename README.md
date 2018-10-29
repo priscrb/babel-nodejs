@@ -3,6 +3,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/priscribeiro/babel-nodejs/issues)
+
+
+[![HitCount](http://hits.dwyl.io/priscribeiro/priscribeiro/babel-nodejs.svg)](http://hits.dwyl.io/priscribeiro/priscribeiro/babel-nodejs)
+
+
+
 ## Installation
 
 For instalation you can use Yarn or NPM, it's up to your preference.
