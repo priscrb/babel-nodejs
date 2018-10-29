@@ -1,13 +1,19 @@
 # Babel Nodejs Setup
 > A boilerplate for Node.js development using es6 features.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<p align="center">
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/priscribeiro/babel-nodejs/issues)
+  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/priscribeiro/babel-nodejs/issues)
 
 
-[![HitCount](http://hits.dwyl.io/priscribeiro/priscribeiro/babel-nodejs.svg)](http://hits.dwyl.io/priscribeiro/priscribeiro/babel-nodejs)
+  [![HitCount](http://hits.dwyl.io/priscribeiro/priscribeiro/babel-nodejs.svg)](http://hits.dwyl.io/priscribeiro/priscribeiro/babel-nodejs)
+
+</p>
+
 
 
 
