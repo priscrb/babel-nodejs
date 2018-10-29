@@ -1,8 +1,7 @@
 # Babel Nodejs Setup
 > A boilerplate for Node.js development using es6 features.
 
-![NpmLicense](https://img.shields.io/npm/l/:package.svg)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Installation
 
